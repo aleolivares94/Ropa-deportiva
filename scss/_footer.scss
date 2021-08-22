@@ -1,0 +1,11 @@
+footer {
+  font-size: $fontSize;
+  display: $d-flex;
+  justify-content: $justify-content;
+
+  ul {
+    width: 10%;
+    display: $d-flex;
+    list-style: $list-style;
+  }
+}

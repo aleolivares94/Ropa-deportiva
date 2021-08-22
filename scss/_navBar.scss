@@ -1,0 +1,13 @@
+.search input {
+  width: $width;
+  padding: $padding;
+  border-radius: $border-radius;
+  margin-right: $margin-right;
+}
+
+.search {
+  width: 33%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
