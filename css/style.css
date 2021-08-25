@@ -165,6 +165,17 @@ h3 {
   border-color: black;
   position: relative; }
 
+.col-grid {
+  display: grid;
+  grid-template-rows: repeat(3, 1fr);
+  grid-template-columns: 1fr;
+  column-gap: 1rem;
+  row-gap: 1rem; }
+
+.col-grid img {
+  width: 100%;
+  height: auto; }
+
 .marcas {
   border-style: double;
   width: 5px;
