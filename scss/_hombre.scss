@@ -1,6 +1,10 @@
 .hombre {
-  border-style: double;
-  width: 5px;
-  border-color: black;
-  position: relative;
+    border-style: double;
+    width: 5px;
+    border-color: black;
+    position: relative;
+}
+
+.titulos h3 {
+    background-color: $color;
 }
